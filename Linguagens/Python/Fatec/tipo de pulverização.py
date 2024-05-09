@@ -13,4 +13,3 @@ elif tipo == 4:
 else:
     raise ValueError("invalido")
 print(f"{preco} R$")
->>>>>>> d284460155be172dbacb94c39cdc1629b0230eee
